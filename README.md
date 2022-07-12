@@ -1,1 +1,2 @@
-# This is Bee Cool Bikes Theme versious 3.0
+# This is Bee Cool Bikes Theme versiou 3.0
+## Will use in new version
